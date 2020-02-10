@@ -7,12 +7,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="42sp"
-        android:text="@string/second_actovity"/>
+        android:text="@string/second_activity"/>
     <TextView
         android:id="@+id/textShape"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="42sp"
-        android:text="@string/ball"
+        android:text="@string/ball"/>
 
 </LinearLayout>
